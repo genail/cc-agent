@@ -1,0 +1,7 @@
+{
+  "name": "cc-agent",
+  "version": "0.1.0",
+  "description": "Skills for sharing a session and messaging other people's sessions through cc-agent",
+  "author": { "name": "Piotr Korzuszek" },
+  "license": "MIT"
+}

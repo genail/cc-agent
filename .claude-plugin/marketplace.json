@@ -1,0 +1,12 @@
+{
+  "name": "cc-agent",
+  "owner": { "name": "Piotr Korzuszek" },
+  "metadata": { "description": "Messages between Claude Code sessions of different people" },
+  "plugins": [
+    {
+      "name": "cc-agent",
+      "source": "./plugin",
+      "description": "Skills for sharing a session and messaging other people's sessions through cc-agent"
+    }
+  ]
+}

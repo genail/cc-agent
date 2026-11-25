@@ -1,0 +1,6 @@
+github.com/PeterSR/claude-code-socket-transport v0.1.1 h1:xirJZhJT2rl6vm3+9ejsUkVcVP9S9/s+pI0VxPtgPec=
+github.com/PeterSR/claude-code-socket-transport v0.1.1/go.mod h1:6C1DXhlyaOYFEqOzjflPX3AtlePC1v/0Urc4duPhYqc=
+golang.org/x/sys v0.50.0 h1:dkKZEFTEKaLr1sjhs0WiKqoi8Jj5nHbS3Njmx1UoMJs=
+golang.org/x/sys v0.50.0/go.mod h1:hNLxWAXmnKAxqDtdwIYC4bM9oQPEecfsnNMuSxOs3og=
+golang.org/x/term v0.48.0 h1:G6UU1eiSB8nl3DzeUGt7Mg+2SctI8tPS6Z5/mBt6cOk=
+golang.org/x/term v0.48.0/go.mod h1:BRDLHCZr2SUjIeBHHpRyQeC9xzSAVbzY2rvKgafnHf4=
